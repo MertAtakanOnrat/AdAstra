@@ -1,5 +1,7 @@
 # AdAstra
  A Space Game designed with Unity and C#
+
+ Store feature will come in next update
  
 <img width="960" alt="Screen Shot 2022-09-06 at 01 39 59" src="https://user-images.githubusercontent.com/63496907/188518375-30eac6dc-555c-447c-a2ee-4c434b456d94.png">
  
